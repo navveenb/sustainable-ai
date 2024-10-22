@@ -35,6 +35,7 @@ These dashboards provide insights into the carbon footprint and energy usage of 
 - **[Can AI Be Truly Green?](https://greensoftware.foundation/articles/can-ai-truly-be-green)** – Explores how AI can reduce its carbon footprint by leveraging carbon-aware software, energy-efficient hardware, and smaller models, making AI systems more environmentally sustainable.
 - **[What Would It Take to Make AI ‘Greener’?](https://www.weforum.org/agenda/2022/08/what-would-it-take-to-make-ai-greener/)** – Discusses the energy usage of large AI models like GPT-3 and how AI-driven initiatives can reduce carbon emissions through smarter energy use and climate action.
 - **[Greening AI: A Policy Agenda for the Artificial Intelligence and Energy Revolutions](https://institute.global/insights/climate-and-energy/greening-ai-a-policy-agenda-for-the-artificial-intelligence-and-energy-revolutions)** – This paper sets out a policy agenda that aims to minimize AI's energy and carbon costs while maximizing its benefits.
+- **[A Review of Green Artificial Intelligence: Towards a More Sustainable Future](https://www.sciencedirect.com/science/article/pii/S0925231224008671)** – A comprehensive review of the current state of Green AI, analyzing key trends and offering strategies for reducing the environmental impact of artificial intelligence.
 
 
 #### Books
