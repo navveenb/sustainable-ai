@@ -31,7 +31,11 @@ These dashboards provide insights into the carbon footprint and energy usage of 
 #### Standards
 - **[Software Carbon Intensity](https://sci.greensoftware.foundation/)** – A specification that defines a methodology for calculating the carbon emissions rate of a software system, known as its SCI score. The specification is currently being extended to cover Classical and Generative AI workloads.
 
-#### Articles
+#### Recent Articles
+- **[Can AI Be Truly Green?](https://greensoftware.foundation/articles/can-ai-truly-be-green)** – Explores how AI can reduce its carbon footprint by leveraging carbon-aware software, energy-efficient hardware, and smaller models, making AI systems more environmentally sustainable.
+- **[What Would It Take to Make AI ‘Greener’?](https://www.weforum.org/agenda/2022/08/what-would-it-take-to-make-ai-greener/)** – Discusses the energy usage of large AI models like GPT-3 and how AI-driven initiatives can reduce carbon emissions through smarter energy use and climate action.
+- **[Greening AI: A Policy Agenda for the Artificial Intelligence and Energy Revolutions](https://institute.global/insights/climate-and-energy/greening-ai-a-policy-agenda-for-the-artificial-intelligence-and-energy-revolutions)** – This paper sets out a policy agenda that aims to minimize AI's energy and carbon costs while maximizing its benefits.
+
 
 #### Books
 - **[Foundations of Responsible and Sustainable AI: A Beginner's Handbook](https://amzn.to/3BX0anx)** – A beginner’s handbook to get started on Sustainable AI.
