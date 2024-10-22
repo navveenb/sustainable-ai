@@ -37,7 +37,9 @@ These dashboards provide insights into the carbon footprint and energy usage of 
 - **[Foundations of Responsible and Sustainable AI: A Beginner's Handbook](https://amzn.to/3BX0anx)** – A beginner’s handbook to get started on Sustainable AI.
 
 #### Latest Research
-
+- **[Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI](https://arxiv.org/abs/2303.13972)** (2023) – This paper provides a comprehensive overview of techniques for reducing the energy consumption of deep learning models, including model compression, efficient architectures, and hardware-aware training.
+- **[A Systematic Review of Green AI](https://arxiv.org/abs/2301.11047)** (2023) – A detailed review of Green AI research, covering energy efficiency, carbon footprint reduction, and ecological impacts of AI systems.
+- **[Green AI: Exploring Carbon Footprints and Mitigation Strategies](https://link.springer.com/article/10.1007/s44163-024-00149-w)** (2022) – Examines carbon footprint and energy-saving strategies for AI development and training.
 
 ## Organizations  
 
