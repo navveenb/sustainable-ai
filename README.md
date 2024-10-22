@@ -1,5 +1,5 @@
 # Sustainable AI
-A comprehensive repository to explore resources aimed at reducing the environmental footprint of AI systems
+A comprehensive repository to explore resources aimed at reducing the environmental footprint of AI systems.
 
 ## Introduction
 Artificial Intelligence (AI) has the potential to solve many global challenges, but its environmental impact cannot be overlooked. This repository is designed to help AI practitioners and researchers adopt sustainable practices throughout the AI development lifecycle. By implementing energy-efficient models, carbon-aware algorithms, and eco-friendly tools, we can reduce the carbon footprint and energy consumption of AI systems.
@@ -28,8 +28,9 @@ These dashboards provide insights into the carbon footprint and energy usage of 
 
 ## Standards / Articles / Books / Research
 
-#### Standards
+#### Standards and Patterns
 - **[Software Carbon Intensity](https://sci.greensoftware.foundation/)** – A specification that defines a methodology for calculating the carbon emissions rate of a software system, known as its SCI score. The specification is currently being extended to cover Classical and Generative AI workloads.
+- **[Green AI Patterns](https://patterns.greensoftware.foundation/catalog/ai/)** – A collection of patterns aimed at reducing carbon emissions and improving energy efficiency in AI systems, helping practitioners adopt more sustainable AI development practices.
 
 #### Recent Articles
 - **[Can AI Be Truly Green?](https://greensoftware.foundation/articles/can-ai-truly-be-green)** – Explores how AI can reduce its carbon footprint by leveraging carbon-aware software, energy-efficient hardware, and smaller models, making AI systems more environmentally sustainable.
