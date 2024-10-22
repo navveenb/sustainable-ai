@@ -40,7 +40,9 @@ These dashboards provide insights into the carbon footprint and energy usage of 
 - **[Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI](https://arxiv.org/abs/2303.13972)** (2023) – This paper provides a comprehensive overview of techniques for reducing the energy consumption of deep learning models, including model compression, efficient architectures, and hardware-aware training.
 - **[A Systematic Review of Green AI](https://arxiv.org/abs/2301.11047)** (2023) – A detailed review of Green AI research, covering energy efficiency, carbon footprint reduction, and ecological impacts of AI systems.
 - **[Green AI: Exploring Carbon Footprints and Mitigation Strategies](https://link.springer.com/article/10.1007/s44163-024-00149-w)** (2022) – Examines carbon footprint and energy-saving strategies for AI development and training.
-
+- **[Carbon Emissions and Large Neural Network Training](https://doi.org/10.48550/arXiv.2104.10350)** (2022) – This paper focuses on the computational demands of large-scale AI models and provides a detailed analysis of their carbon emissions. The authors suggest ways to optimize neural network training to reduce the carbon footprint.
+- **[OpenCarbonEval: A Unified Carbon Emission Estimation Framework in Large-Scale AI Models](https://doi.org/10.48550/arXiv.2405.12843)** (2023) – Introduces a framework for estimating carbon emissions in large-scale AI models, offering dynamic predictions by analyzing various model architectures and hardware configurations.
+- **[MLPerf Power: Benchmarking the Energy Efficiency of Machine Learning Systems from μWatts to MWatts for Sustainable AI](https://doi.org/10.48550/arXiv.2410.12032)** (2024) – This paper presents the MLPerf Power benchmark, evaluating energy efficiency across a wide range of hardware systems, from edge devices to large cloud systems, offering insights for designing energy-efficient AI solutions.
 ## Organizations  
 
 This section lists key organizations and communities focused on reducing the environmental footprint of digital technologies, including AI and software systems.
