@@ -14,7 +14,8 @@ These tools are designed to measure and quantify energy usage, carbon emissions,
 - **[CodeCarbon](https://codecarbon.io/)** – Estimates the carbon footprint during the training of machine learning models.
 - **[EnergyMeter](https://github.com/maufadel/EnergyMeter)** – A Python module combining pyRAPL, NVIDIA-SMI, and eBPF to estimate energy consumption of CPU, memory, GPU, and storage on Linux with only three lines of code.     
 - **[pyJoules](https://github.com/powerapi-ng/pyJoules)** – A Python library that uses hardware measurement tools (Intel RAPL, NVIDIA GPU tools, etc.) to measure device energy consumption.
-
+- **[EcoLogits](https://ecologits.ai/latest/)** – EcoLogits tracks the energy consumption and environmental impacts of using generative AI models through APIs.
+- 
 ##### Online Calculators
 - **[Green Algorithms](https://green-algorithms.org/)** – Provides an online calculator to estimate the carbon footprint of workloads.
 - **[ML CO2 Impact](https://mlco2.github.io/impact/#compute)** – Provides an online calculator to estimate the carbon footprint of AI workloads.
