@@ -15,6 +15,7 @@ These tools are designed to measure and quantify energy usage, carbon emissions,
 - **[EnergyMeter](https://github.com/maufadel/EnergyMeter)** – A Python module combining pyRAPL, NVIDIA-SMI, and eBPF to estimate energy consumption of CPU, memory, GPU, and storage on Linux with only three lines of code.     
 - **[pyJoules](https://github.com/powerapi-ng/pyJoules)** – A Python library that uses hardware measurement tools (Intel RAPL, NVIDIA GPU tools, etc.) to measure device energy consumption.
 - **[EcoLogits](https://ecologits.ai/latest/)** – EcoLogits tracks the energy consumption and environmental impacts of using generative AI models through APIs.
+- **[RouteLLM](https://github.com/lm-sys/RouteLLM)** – RouteLLM is a framework for serving and evaluating LLM routers. Drop-in replacement for OpenAI's client (or launch an OpenAI-compatible server) to route simpler queries to cheaper models.
   
 ##### Online Calculators
 - **[Green Algorithms](https://green-algorithms.org/)** – Provides an online calculator to estimate the carbon footprint of workloads.
