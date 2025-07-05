@@ -41,9 +41,12 @@ These dashboards provide insights into the carbon footprint and energy usage of 
 - **[Greening AI: A Policy Agenda for the Artificial Intelligence and Energy Revolutions](https://institute.global/insights/climate-and-energy/greening-ai-a-policy-agenda-for-the-artificial-intelligence-and-energy-revolutions)** – This paper sets out a policy agenda that aims to minimize AI's energy and carbon costs while maximizing its benefits.
 - **[A Review of Green Artificial Intelligence: Towards a More Sustainable Future](https://www.sciencedirect.com/science/article/pii/S0925231224008671)** – A comprehensive review of the current state of Green AI, analyzing key trends and offering strategies for reducing the environmental impact of artificial intelligence.
 
+#### White papers
+- **[Sustainable Green Agentic AI White paper](https://github.com/navveenb/lean-agentic-ai/tree/main/research/Sustainable%20Agentic%20AI)** – White paper on how to build Sustainable Agentic AI applications.
 
 #### Books
 - **[Foundations of Responsible and Sustainable AI: A Beginner's Handbook](https://amzn.to/3BX0anx)** – A beginner’s handbook to get started on Sustainable AI.
+- **[Lean Agentic AI: Minimizing Cost, Carbon, and Complexity](https://amzn.to/46tWDdr)** – Lean Agentic AI: Minimizing Cost, Carbon, and Complexity is the first book to provide  practical, actionable, and deeply insightful guide to building agentic AI systems that are not only powerful but efficient, sustainable, and scalable by design.
 
 #### Latest Research
 - **[Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI](https://arxiv.org/abs/2303.13972)** (2023) – This paper provides a comprehensive overview of techniques for reducing the energy consumption of deep learning models, including model compression, efficient architectures, and hardware-aware training.
