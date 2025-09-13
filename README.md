@@ -21,6 +21,7 @@ These tools are designed to measure and quantify energy usage, carbon emissions,
 - **[Green Algorithms](https://green-algorithms.org/)** – Provides an online calculator to estimate the carbon footprint of workloads.
 - **[ML CO2 Impact](https://mlco2.github.io/impact/#compute)** – Provides an online calculator to estimate the carbon footprint of AI workloads.
 - **[EcoLogits](https://huggingface.co/spaces/genai-impact/ecologits-calculator)** – Estimates the environmental impacts of LLM inference.
+- **[AI Emissions Scenario Generator](https://borisruf.github.io/carbon-footprint-modeling-tool/ai-scenarios.html)** – Approximates carbon emissions by considering model architecture, the region where the model is deployed, and the expected usage (number of tokens).
 
 #### Cloud Emission Dashboards
 These dashboards provide insights into the carbon footprint and energy usage of cloud workloads from major hyperscalers. The data is **not real-time** and is typically delayed, meaning it cannot be used for real-time actions or optimizations.
